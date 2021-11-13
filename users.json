@@ -1,0 +1,153 @@
+[{
+  "_id": {
+    "$oid": "616a73bccaa8a3adbeebfb7d"
+  },
+  "username": "Jennifer Aniston",
+  "email": "jennifer_aniston@gmail.com",
+  "password": "$2b$10$CTeNfXQ6wybCjvkyOoKK9uJ0RndBWXp6Dv/tco.dYItA7jWkIS4FG",
+  "profilePicture": "person/1.jpg",
+  "coverPicture": "post/1.jpg",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2021-10-16T06:39:56.486Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-18T06:33:08.723Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616d01df428f6f4daa3230f7"
+  },
+  "username": "Mila Kunis",
+  "email": "mila_kunis@gmail.com",
+  "password": "$2b$10$cfMMawCyVC6J2h6D0yKnJeteWZVFZwRjCfQxbKSv667K3yCUqFziy",
+  "profilePicture": "person/2.jpg",
+  "coverPicture": "post/2.jpg",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2021-10-18T05:10:55.390Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-18T06:33:32.839Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616d029d428f6f4daa3230f9"
+  },
+  "username": "Angelina Jolie",
+  "email": "angelina_jolie@gmail.com",
+  "password": "$2b$10$LYe9HnW5cr6ZmVIUm8WPF.uPSUkqf.2UVlsbzeQaqghZpnXbODaVC",
+  "profilePicture": "person/3.jpg",
+  "coverPicture": "post/3.jpg",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2021-10-18T05:14:05.343Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-18T06:33:55.907Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616d05d2428f6f4daa3230fb"
+  },
+  "username": "Brie Larson",
+  "email": "brie_larson@gmail.com",
+  "password": "$2b$10$0Fs.X3rum4A9VvHS94EV0.PEYlYCBa5bShufcFyFv5GKv0lNN8BTW",
+  "profilePicture": "person/4.jpg",
+  "coverPicture": "post/4.jpg",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2021-10-18T05:27:46.910Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-18T06:34:25.328Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616d05e8428f6f4daa3230fd"
+  },
+  "username": "Jannet Jackson",
+  "email": "jannet_jackson@gmail.com",
+  "password": "$2b$10$N.LXJCNorO2XS//UW5aGzeq4h6Ai3Iu/epRrhfjlvvT5/yLQFroJu",
+  "profilePicture": "person/5.jpg",
+  "coverPicture": "post/5.jpg",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2021-10-18T05:28:08.856Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-18T06:34:54.327Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616d0634428f6f4daa3230ff"
+  },
+  "username": "Jennifer Lawrence",
+  "email": "jennifer_lawrence@gmail.com",
+  "password": "$2b$10$98wa.zRH9VnY5IGGXGtAO.iRveSpXB9P5hS/xRdZ0WE7QMMgldHQq",
+  "profilePicture": "person/6.jpg",
+  "coverPicture": "post/6.jpg",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2021-10-18T05:29:24.440Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-18T06:35:17.489Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616d0649428f6f4daa323101"
+  },
+  "username": "Tom Cruise",
+  "email": "tom_cruise@gmail.com",
+  "password": "$2b$10$P051uA9OoIVeJRyVYgvXLOTvTo9SshtqXTZRg1XNEr1Pryiz4P/fy",
+  "profilePicture": "person/7.jpg",
+  "coverPicture": "post/7.jpg",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2021-10-18T05:29:45.003Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-18T06:35:41.393Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616d0656428f6f4daa323103"
+  },
+  "username": "Brad Pitt",
+  "email": "brad_pitt@gmail.com",
+  "password": "$2b$10$IbLLUQ2tH6KDqdgpbJvqEezCq57IbhoYIpeu0RK2bELBf35U9WSvq",
+  "profilePicture": "person/8.jpg",
+  "coverPicture": "post/8.jpg",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": "2021-10-18T05:29:58.786Z"
+  },
+  "updatedAt": {
+    "$date": "2021-10-18T06:36:07.522Z"
+  },
+  "__v": 0
+}]
